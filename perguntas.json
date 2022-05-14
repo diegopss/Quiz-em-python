@@ -1,0 +1,444 @@
+{
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?",
+      "alt1": "Tem entre 2 a 4 litros. São retirados 450 mililitros",
+      "alt2": "Tem entre 4 a 6 litros. São retirados 450 mililitros",
+      "alt3": "Tem 10 litros. São retirados 2 litros",
+      "alt4": "Tem 7 litros. São retirados 1,5 litros",
+      "alt5": "Tem 0,5 litros. São retirados 0,5 litros",
+      "correct_alt": "2"
+    },
+    {
+      "id": 2,
+      "pergunta": "De quem é a famosa frase “Penso, logo existo”?",
+      "alt1": "Platão",
+      "alt2": "Galileu Galilei",
+      "alt3": "Descartes",
+      "alt4": "Sócrates",
+      "alt5": "Francis Bacon",
+      "correct_alt": "3"
+    },
+    {
+      "id": 3,
+      "pergunta": "De onde é a invenção do chuveiro elétrico?",
+      "alt1": "França",
+      "alt2": "Inglaterra",
+      "alt3": "Brasil",
+      "alt4": "Austrália",
+      "alt5": "Itália",
+      "correct_alt": "3"
+    },
+    {
+      "id": 4,
+      "pergunta": "Quais o menor e o maior país do mundo?",
+      "alt1": "Vaticano e Rússia",
+      "alt2": "Nauru e China",
+      "alt3": "Mônaco e Canadá",
+      "alt4": "Malta e Estados Unidos",
+      "alt5": "São Marino e Índia",
+      "correct_alt": "1"
+    },
+    {
+      "id": 5,
+      "pergunta": "Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+      "alt1": "Jânio Quadros",
+      "alt2": "Jacinto Anjos",
+      "alt3": "Getúlio Vargas",
+      "alt4": "João Figueiredo",
+      "alt5": "João Goulart",
+      "correct_alt": "5"
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual o grupo em que todas as palavras foram escritas corretamente?",
+      "alt1": "Asterístico, beneficiente, meteorologia, entertido",
+      "alt2": "Asterisco, beneficente, meteorologia, entretido",
+      "alt3": "Asterisco, beneficente, metereologia, entretido",
+      "alt4": "Asterístico, beneficiente, metereologia, entretido",
+      "alt5": "Asterisco, beneficiente, metereologia, entretido",
+      "correct_alt": "2"
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual o livro mais vendido no mundo a seguir à Bíblia?",
+      "alt1": "O Senhor dos Anéis",
+      "alt2": "Dom Quixote",
+      "alt3": "O Pequeno Príncipe",
+      "alt4": "Ela, a Feiticeira",
+      "alt5": "Um Conto de Duas Cidades",
+      "correct_alt": "2"
+    },
+    {
+      "id": 8,
+      "pergunta": "Quantas casas decimais tem o número pi?",
+      "alt1": "Duas",
+      "alt2": "Centenas",
+      "alt3": "Infinitas",
+      "alt4": "Vinte",
+      "alt5": "Milhares",
+      "correct_alt": "3"
+    },
+    {
+      "id": 9,
+      "pergunta": "Atualmente, quantos elementos químicos a tabela periódica possui?",
+      "alt1": "113",
+      "alt2": "109",
+      "alt3": "108",
+      "alt4": "118",
+      "alt5": "92",
+      "correct_alt": "4"
+    },
+    {
+      "id": 10,
+      "pergunta": "Quais os países que têm a maior e a menor expectativa de vida do mundo?",
+      "alt1": "Japão e Serra Leoa",
+      "alt2": "Austrália e Afeganistão",
+      "alt3": "Itália e Chade",
+      "alt4": "Brasil e Congo",
+      "alt5": "Estados Unidos e Angola",
+      "correct_alt": "1"
+    },
+    {
+      "id": 11,
+      "pergunta": "O que a palavra legend significa em português?",
+      "alt1": "Legenda",
+      "alt2": "Conto",
+      "alt3": "História",
+      "alt4": "Lenda",
+      "alt5": "Legendário",
+      "correct_alt": "4"
+    },
+    {
+      "id": 12,
+      "pergunta": "Qual o número mínimo de jogadores numa partida de futebol?",
+      "alt1": "8",
+      "alt2": "10",
+      "alt3": "9",
+      "alt4": "5",
+      "alt5": "7",
+      "correct_alt": "7"
+    },
+    {
+      "id": 13,
+      "pergunta": "Quais os principais autores do Barroco no Brasil?",
+      "alt1": "Gregório de Matos, Bento Teixeira e Manuel Botelho de Oliveira",
+      "alt2": "Miguel de Cervantes, Gregório de Matos e Danthe Alighieri",
+      "alt3": "Padre Antônio Vieira, Padre Manuel de Melo e Gregório de Matos",
+      "alt4": "Castro Alves, Bento Teixeira e Manuel Botelho de Oliveira",
+      "alt5": "Álvares de Azevedo, Gregório de Matos e Bento Teixeira",
+      "correct_alt": "1"
+    },
+    {
+      "id": 14,
+      "pergunta": "Quais as duas datas que são comemoradas em novembro?",
+      "alt1": "Independência do Brasil e Dia da Bandeira",
+      "alt2": "Proclamação da República e Dia Nacional da Consciência Negra",
+      "alt3": "Dia do Médico e Dia de São Lucas",
+      "alt4": "Dia de Finados e Dia Nacional do Livro",
+      "alt5": "Black Friday e Dia da Árvore",
+      "correct_alt": "2"
+    },
+    {
+      "id": 15,
+      "pergunta": "Quem pintou 'Guernica'?",
+      "alt1": "Paul Cézanne",
+      "alt2": "Pablo Picasso",
+      "alt3": "Diego Rivera",
+      "alt4": "Tarsila do Amaral",
+      "alt5": "Salvador Dalí",
+      "correct_alt": "2"
+    },
+    {
+      "id": 16,
+      "pergunta": "Quanto tempo a luz do Sol demora para chegar à Terra?",
+      "alt1": "12 minutos",
+      "alt2": "1 dia",
+      "alt3": "12 horas",
+      "alt4": "8 minutos",
+      "alt5": "segundos",
+      "correct_alt": "4"
+    },
+    {
+      "id": 17,
+      "pergunta": "Qual a tradução da frase “Fabiano cogió su saco antes de salir”?",
+      "alt1": "Fabiano coseu seu paletó antes de sair",
+      "alt2": "Fabiano fechou o saco antes de sair",
+      "alt3": "Fabiano pegou seu paletó antes de sair",
+      "alt4": "Fabiano cortou o saco antes de cair",
+      "alt5": "Fabiano rasgou seu paletó antes de cair",
+      "correct_alt": "3"
+    },
+    {
+      "id": 18,
+      "pergunta": "Qual a nacionalidade de Che Guevara?",
+      "alt1": "Cubana",
+      "alt2": "Peruana",
+      "alt3": "Panamenha",
+      "alt4": "Boliviana",
+      "alt5": "Argentina",
+      "correct_alt": "5"
+    },
+    {
+      "id": 19,
+      "pergunta": "Quais são os três predadores do reino animal reconhecidos pela habilidade de caçar em grupo, se camuflar para surpreender as presas e possuir sentidos apurados, respectivamente:",
+      "alt1": "Tubarão branco, crocodilo e sucuri",
+      "alt2": "Tigre, gavião e orca",
+      "alt3": "Hiena, urso branco e lobo cinzento",
+      "alt4": "Orca, onça e tarântula",
+      "alt5": "Leão, tubarão branco e urso cinzento",
+      "correct_alt": "3"
+    },
+    {
+      "id": 20,
+      "pergunta": "Qual a altura da rede de vôlei nos jogos masculino e feminino?",
+      "alt1": "2,4 para ambos",
+      "alt2": "2,5 m e 2,0 m",
+      "alt3": "1,8 m e 1,5 m",
+      "alt4": "2,45 m e 2,15 m",
+      "alt5": "2,43 m e 2,24 m",
+      "correct_alt": "5"
+    },
+    {
+      "id": 21,
+      "pergunta": "Em que ordem surgiram os modelos atômicos?",
+      "alt1": "Thomson, Dalton, Rutherford, Rutherford-Bohr",
+      "alt2": "Rutherford-Bohr, Rutherford, Thomson, Dalton",
+      "alt3": "Dalton, Rutherford-Bohr, Thomson, Rutherford",
+      "alt4": "Dalton, Thomson, Rutherford-Bohr, Rutherford",
+      "alt5": "Dalton, Thomson, Rutherford, Rutherford-Bohr",
+      "correct_alt": "5"
+    },
+    {
+      "id": 22,
+      "pergunta": "Qual personagem folclórico costuma ser agradado pelos caçadores com a oferta de fumo?",
+      "alt1": "Caipora",
+      "alt2": "Saci",
+      "alt3": "Lobisomem",
+      "alt4": "Boitatá",
+      "alt5": "Negrinho do Pastoreio",
+      "correct_alt": "1"
+    },
+    {
+      "id": 23,
+      "pergunta": "Em que período da pré-história o fogo foi descoberto?",
+      "alt1": "Neolítico",
+      "alt2": "Paleolítico",
+      "alt3": "Idade dos Metais",
+      "alt4": "Período da Pedra Polida",
+      "alt5": "Idade Média",
+      "correct_alt": "2"
+    },
+    {
+      "id": 24,
+      "pergunta": "Qual das alternativas abaixo apenas contêm classes de palavras?",
+      "alt1": "Vogais, semivogais e consoantes",
+      "alt2": "Artigo, verbo transitivo e verbo intransitivo",
+      "alt3": "Fonologia, Morfologia e Sintaxe",
+      "alt4": "Hiatos, ditongos e tritongos",
+      "alt5": "Substantivo, verbo e preposição",
+      "correct_alt": "5"
+    },
+    {
+      "id": 25,
+      "pergunta": "Qual a montanha mais alta do Brasil?",
+      "alt1": "Pico da Neblina",
+      "alt2": "Pico Paraná",
+      "alt3": "Monte Roraima",
+      "alt4": "Pico Maior de Friburgo",
+      "alt5": "Pico da Bandeira",
+      "correct_alt": "1"
+    },
+    {
+      "id": 26,
+      "pergunta": "Qual a velocidade da luz?",
+      "alt1": "300 000 000 metros por segundo (m/s)",
+      "alt2": "150 000 000 metros por segundo (m/s)",
+      "alt3": "199 792 458 metros por segundo (m/s)",
+      "alt4": "299 792 458 metros por segundo (m/s)",
+      "alt5": "30 000 000 metros por segundo (m/s)",
+      "correct_alt": "4"
+    },
+    {
+      "id": 27,
+      "pergunta": "Em qual local da Ásia o português é língua oficial?",
+      "alt1": "Índia",
+      "alt2": "Filipinas",
+      "alt3": "Moçambique",
+      "alt4": "Macau",
+      "alt5": "Portugal",
+      "correct_alt": "4"
+    },
+    {
+      "id": 28,
+      "pergunta": "'It is six twenty' ou 'twenty past six'. Que horas são em inglês?",
+      "alt1": "12:06",
+      "alt2": "6:20",
+      "alt3": "2:20",
+      "alt4": "6:02",
+      "alt5": "12:20",
+      "correct_alt": "2"
+    },
+    {
+      "id": 29,
+      "pergunta": "Quem é o autor de “O Príncipe”?",
+      "alt1": "Maquiavel",
+      "alt2": "Antoine de Saint-Exupéry",
+      "alt3": "Montesquieu",
+      "alt4": "Thomas Hobbes",
+      "alt5": "Rousseau",
+      "correct_alt": "1"
+    },
+    {
+      "id": 30,
+      "pergunta": "Como é a conjugação do verbo caber na 1.ª pessoa do singular do presente do indicativo?",
+      "alt1": "Eu caibo",
+      "alt2": "Ele cabe",
+      "alt3": "Que eu caiba",
+      "alt4": "Eu cabo",
+      "alt5": "Nenhuma das alternativas",
+      "correct_alt": "1"
+    },
+    {
+      "id": 31,
+      "pergunta": "Quais destas construções famosas ficam nos Estados Unidos?",
+      "alt1": "Estátua da Liberdade, Golden Gate Bridge e Empire State Building",
+      "alt2": "Estátua da Liberdade, Big Ben e The High Line",
+      "alt3": "Angkor Wat, Taj Mahal e Skywalk no Grand Canyon",
+      "alt4": "Lincoln Memorial, Sidney Opera House e Burj Khalifa",
+      "alt5": "30 St Mary Axe, The High Line e Residencial 148 Spruce Street",
+      "correct_alt": "1"
+    },
+    {
+      "id": 32,
+      "pergunta": "Quais destas doenças são sexualmente transmissíveis?",
+      "alt1": "Aids, tricomoníase e ebola",
+      "alt2": "Chikungunya, aids e herpes genital",
+      "alt3": "Gonorreia, clamídia e sífilis",
+      "alt4": "Botulismo, cistite e gonorreia",
+      "alt5": "Hepatite B, febre tifoide e hanseníase",
+      "correct_alt": "3"
+    },
+    {
+      "id": 33,
+      "pergunta": "Qual destes países é transcontinental?",
+      "alt1": "Rússia",
+      "alt2": "Filipinas",
+      "alt3": "Marrocos",
+      "alt4": "Groenlândia",
+      "alt5": "Tanzânia",
+      "correct_alt": "1"
+    },
+    {
+      "id": 34,
+      "pergunta": "Em qual das orações abaixo a palavra foi empregada incorretamente?",
+      "alt1": "Mais uma vez, portou-se mal.",
+      "alt2": "É um homem mal.",
+      "alt3": "Esse é o mal de todos.",
+      "alt4": "Mal falou nele, o fulano apareceu.",
+      "alt5": "É um mau vendedor.",
+      "correct_alt": "2"
+    },
+    {
+      "id": 35,
+      "pergunta": "Qual foi o recurso utilizado inicialmente pelo homem para explicar a origem das coisas?",
+      "alt1": "A Filosofia",
+      "alt2": "A Biologia",
+      "alt3": "A Matemática",
+      "alt4": "A Astronomia",
+      "alt5": "A Mitologia",
+      "correct_alt": "5"
+    },
+    {
+      "id": 36,
+      "pergunta": "Qual das alternativas menciona apenas símbolos nacionais?",
+      "alt1": "Bandeira insígnia da presidência, bandeira nacional, brasão, hinos e selo",
+      "alt2": "Bandeira nacional, armas nacionais, hino nacional e selo nacional",
+      "alt3": "Bandeira nacional, brasão, hino nacional e hino da independência",
+      "alt4": "Bandeira nacional, cores nacionais, hino nacional e hino da independência",
+      "alt5": "Bandeira insígnia da presidência, brasão flora e fauna e hinos",
+      "correct_alt": "2"
+    },
+    {
+      "id": 37,
+      "pergunta": "Quais os planetas do sistema solar?",
+      "alt1": "Terra, Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio",
+      "alt2": "Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Terra, Urano, Vênus",
+      "alt3": "Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio",
+      "alt4": "Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Sol, Terra, Urano, Vênus",
+      "alt5": "Terra, Vênus, Saturno, Júpiter, Marte, Netuno, Mercúrio",
+      "correct_alt": "1"
+    },
+    {
+      "id": 38,
+      "pergunta": "Qual era o nome de Aleijadinho?",
+      "alt1": "Alexandrino Francisco Lisboa",
+      "alt2": "Manuel Francisco Lisboa",
+      "alt3": "Alex Francisco Lisboa",
+      "alt4": "Francisco Antônio Lisboa",
+      "alt5": "Antônio Francisco Lisboa",
+      "correct_alt": "5"
+    },
+    {
+      "id": 39,
+      "pergunta": "Júpiter e Plutão são os correlatos romanos de quais deuses gregos?",
+      "alt1": "Ares e Hermes",
+      "alt2": "Cronos e Apolo",
+      "alt3": "Zeus e Hades",
+      "alt4": "Dionísio e Deméter",
+      "alt5": "Zeus e Ares",
+      "correct_alt": "3"
+    },
+    {
+      "id": 40,
+      "pergunta": "Qual o maior animal terrestre?",
+      "alt1": "Baleia Azul",
+      "alt2": "Dinossauro",
+      "alt3": "Elefante africano",
+      "alt4": "Tubarão Branco",
+      "alt5": "Girafa",
+      "correct_alt": "3"
+    },
+    {
+      "id": 42,
+      "pergunta": "Que líder mundial ficou conhecida como “Dama de Ferro”?",
+      "alt1": "Dilma Rousseff",
+      "alt2": "Angela Merkel",
+      "alt3": "Margaret Thatcher",
+      "alt4": "Hillary Clinton",
+      "alt5": "Christine Lagarde",
+      "correct_alt": "3"
+    },
+    {
+      "id": 43,
+      "pergunta": "O que são Acordo de Paris e Tríplice Aliança respectivamente?",
+      "alt1": "Acordo ortográfico entre países cuja língua oficial é o francês e Acordo de cooperação financeira internacional entre as três maiores potências mundiais",
+      "alt2": "Acordo entre países europeus acerca da imigração e Acordo econômico entre Inglaterra, Rússia a França",
+      "alt3": "Acordo entre vários países acerca das consequências do aquecimento global e Acordo de cooperação financeira internacional entre as três maiores potências mundiais",
+      "alt4": "Acordo de cooperação financeira internacional entre as três maiores potências mundiais e Acordo entre vários países acerca das consequências do aquecimento global",
+      "alt5": "Acordo entre vários países acerca das consequências do aquecimento global e Acordo entre Alemanha, império Austro-Húngaro e Itália acerca de apoio em caso de guerra",
+      "correct_alt": "5"
+    },
+    {
+      "id": 44,
+      "pergunta": "Quais os nomes dos três Reis Magos?",
+      "alt1": "Gaspar, Nicolau e Natanael",
+      "alt2": "Belchior, Gaspar e Baltazar",
+      "alt3": "Belchior, Gaspar e Nataniel",
+      "alt4": "Gabriel, Benjamim e Melchior",
+      "alt5": "Melchior, Noé e Galileu",
+      "correct_alt": "2"
+    },
+    {
+      "id": 45,
+      "pergunta": "Quais os principais heterônimos de Fernando Pessoa?",
+      "alt1": "Alberto Caeiro, Ricardo Reis e Álvaro de Campos",
+      "alt2": "Ariano Suassuna, Raul Bopp e Quincas Borba",
+      "alt3": "Bento Teixeira, Ricardo Reis e Haroldo de Campos",
+      "alt4": "Alberto Caeiro, Ricardo Leite e Augusto de Campos",
+      "alt5": "Bento Teixeira, Ricardo Reis e Augusto de Campos",
+      "correct_alt": "1"
+    }
+  ]
+}

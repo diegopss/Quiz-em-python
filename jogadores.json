@@ -1,0 +1,20 @@
+{
+    "jogador": [
+        {
+            "nome": "roberval",
+            "acertos": 5
+        },
+        {
+            "nome": "ricado",
+            "acertos": 3
+        },
+        {
+            "nome": "Bianca",
+            "acertos": 9
+        },
+        {
+            "nome": "Diego Passos",
+            "acertos": 10
+        }
+    ]
+}
